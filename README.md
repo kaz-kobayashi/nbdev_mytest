@@ -22,19 +22,3 @@ Fill me in please! Don't forget code examples:
     2
 
 
-
-```python
-say_hello("Dear")
-```
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-8-7aaf444b74b9> in <module>
-    ----> 1 say_hello("Dear")
-    
-
-    NameError: name 'say_hello' is not defined
-
